@@ -1,6 +1,31 @@
-*{
+/*  *{
     box-shadow: inset 0px 0px 0px 1px rgba(0,0,255, 0.1);
-}
+}  */
 body{
     color: rgb(139, 138, 138);
+}
+
+.link-nav{
+    
+    color: rgb(139, 139, 139);
+}
+.link-nav:hover{
+    text-decoration: none;
+    color: rgb(247,181,2);
+}
+.link-right-nav{
+    
+    color: rgb(139, 139, 139);
+}
+.link-right-nav:hover{
+    text-decoration: none;
+    color: rgb(247,181,2);
+}
+.link-other-nav{
+    
+    color: rgb(247, 181, 2);
+}
+.link-other-nav:hover{
+    text-decoration: none;
+    color: rgb(247,181,2);
 }
