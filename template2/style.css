@@ -1,0 +1,15 @@
+*{
+    box-shadow: inset 0px 0px 0px 1px rgba(0,0,255, 0.1);
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.link-nav{
+    text-decoration: none;
+}
+input{
+    border: none;
+    border-radius: 10px;
+}
