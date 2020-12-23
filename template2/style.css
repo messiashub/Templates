@@ -1,7 +1,7 @@
-/*  *{
+*{
     box-shadow: inset 0px 0px 0px 1px rgba(0,0,255, 0.1);
 } 
- */
+ 
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -20,4 +20,18 @@ input{
 }
 .red:hover{
     color: red;
+}
+
+.red2{
+    color: red;  /* cor do read more */
+}
+.red2:hover{
+    color: red;
+}
+
+
+@media only screen and(width:360px){
+    .img-t{
+         max-width: 300px;
+    }
 }
