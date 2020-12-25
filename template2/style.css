@@ -1,6 +1,6 @@
-/*  *{
+/* *{
     box-shadow: inset 0px 0px 0px 1px rgba(255, 30, 0, 0.1);
-} */ 
+}   */
   
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -23,7 +23,7 @@ input{
 }
 
 .red2{
-    color: red;  /* cor do read more */
+  color:  red;  /* cor do read more */
 }
 .red2:hover{
     color: red;
@@ -37,7 +37,7 @@ input{
 }
 
 .bg-cor{
-    background-color: rgb(246, 246, 246);
+    background-color: rgb(240, 239, 239);
 }
 .texto{
     max-width: 290px;
