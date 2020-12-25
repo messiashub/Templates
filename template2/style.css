@@ -1,6 +1,9 @@
 /* *{
     box-shadow: inset 0px 0px 0px 1px rgba(255, 30, 0, 0.1);
 }   */
+html{
+    scroll-behavior: smooth;
+}
   
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -12,6 +15,12 @@ body{
 input{
     border: none;
     border-radius: 10px;
+}
+#red{
+    color: rgb(241, 241, 245);
+}
+#red:hover{
+    color: rgb(255, 255, 255);
 }
 
 .red{
